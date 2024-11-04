@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epadauvo.github.io/SWU/sitemap_index.txt
+Sitemap: https://epadauvo.github.io/bEl/sitemap_index.txt
+Sitemap: https://epadauvo.github.io/qsl/sitemap_index.txt
+Sitemap: https://epadauvo.github.io/tRW/sitemap_index.txt
